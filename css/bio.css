@@ -1,0 +1,896 @@
+/* screen - bio */
+
+.aboutnalssam {
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 27px;
+  letter-spacing: -1.73px;
+}
+.aboutthenalssam {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.and {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.applesdgothicneo-heavy-normal-white-24px {
+  color: var(--white);
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 24px;
+}
+.applesdgothicneo-normal-caribbean-green-18px {
+  color: var(--caribbean-green);
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 18px;
+}
+.asd {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 28px;
+  letter-spacing: 0.00px;
+}
+.asdfad {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 18px;
+  letter-spacing: 0.00px;
+}
+.bio {
+  background-color: var(--white);
+  height: 4864px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.bio .a-stair-bplant-box-kxhp4v {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 700;
+  height: auto;
+  left: 525px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 211px;
+  width: auto;
+}
+.bio .bar-SHDHHB {
+  background-color: transparent;
+  height: 137px;
+  margin: 80px 0 0 0;
+  position: relative;
+  width: 1440px;
+}
+.bio .bio-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 600;
+  height: auto;
+  left: 317px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 1423px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .bio-zUixHA {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 50px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 302px;
+  width: auto;
+}
+.bio .button-KOsP6k {
+  background-color: var(--caribbean-green);
+  height: 60px;
+  left: 209px;
+  position: absolute;
+  top: 206px;
+  width: 218px;
+}
+.bio .click-3qshht {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 608px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 155px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .click-bAyQtV {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 139px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 155px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .click-hdKSmR {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 844px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 155px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .click-waRZGu {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 1080px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 155px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .click-zLZUBK {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 200;
+  height: auto;
+  left: 372px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 155px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .copy-zUixHA {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 48px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .cr-xd0wTK {
+  background-color: transparent;
+  background-image: url(../img/bio-asdfasddfafafgasfasdfasdfasdf00007-AA9CB208-D745-4F8E-AB4F-085D8307EC46@2x.png);
+  background-size: 100% 100%;
+  height: 135px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+.bio .footer-fNGuiB {
+  background-color: var(--eerie-black);
+  height: 137px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+.bio .g-slave-xd0wTK {
+  background-color: transparent;
+  background-image: url(../img/bio-u110eu116cu110cu1169u11bc-u1105u1169u1100u116900004-2DCE73FC-7AD1-4DF1-B9D1-7A79D355B3DF@2x.png);
+  background-size: 100% 100%;
+  height: 135px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+.bio .group-11-C61RwL {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  position: absolute;
+  top: 72px;
+  width: 1442px;
+}
+.bio .group-15-SHDHHB {
+  background: linear-gradient(-41deg, #D4005D 0%, #F7B500 84%);
+  background-color: transparent;
+  border-radius: 39px;
+  height: 681px;
+  margin: 0;
+  position: relative;
+  width: 1071px;
+}
+.bio .group-2-C61RwL {
+  background-color: transparent;
+  height: 1452px;
+  left: 228px;
+  position: absolute;
+  top: 2400px;
+  width: 984px;
+}
+.bio .group-3-KOsP6k {
+  background-color: transparent;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 635px;
+}
+.bio .group-4-C61RwL {
+  background-color: transparent;
+  height: 266px;
+  left: 404px;
+  position: absolute;
+  top: 362px;
+  width: 635px;
+}
+.bio .group-6-bAyQtV {
+  background-color: var(--bunker);
+  height: 190px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+.bio .group-i7hrr4 {
+  background-color: transparent;
+  height: 18px;
+  left: 861px;
+  position: absolute;
+  top: 92px;
+  width: 338px;
+}
+.bio .hr-PZ5l3E {
+  background-color: var(--tundora-2);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 39px;
+  width: 947px;
+}
+.bio .hr-dIx87p {
+  background-color: var(--mine-shaft);
+  height: 1px;
+  left: 0px;
+  position: relative;
+  top: 71px;
+  width: 1440px;
+}
+.bio .hr-i7hrr4 {
+  background-color: var(--tundora-2);
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 83px;
+  width: 947px;
+}
+.bio .line-2-xd0wTK {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.bio .line-3-HrtGqK {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.bio .line-3-Hxo22Q {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.bio .line-3-xLcPb5 {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.bio .line-3-xd0wTK {
+  background-color: transparent;
+  height: 72px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 1px;
+}
+.bio .line-5-GE0XEQ {
+  background-color: transparent;
+  height: 4px;
+  left: 37px;
+  position: absolute;
+  top: 1037px;
+  width: 944px;
+}
+.bio .line-5-kTiyrb {
+  background-color: transparent;
+  height: 4px;
+  left: 38px;
+  position: absolute;
+  top: 452px;
+  width: 944px;
+}
+.bio .line-5-sdxwGy {
+  background-color: transparent;
+  height: 4px;
+  left: 40px;
+  position: absolute;
+  top: 727px;
+  width: 944px;
+}
+.bio .line-5-zUixHA {
+  background-color: transparent;
+  height: 4px;
+  left: 37px;
+  position: absolute;
+  top: 177px;
+  width: 944px;
+}
+.bio .more00000-TVJ55C {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 84px;
+}
+.bio .more00000-xd0wTK {
+  background-color: transparent;
+  height: 32px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 84px;
+}
+.bio .nalssam-PZ5l3E {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 1029px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .nalssam-UOcbxe {
+  background-color: transparent;
+  font-weight: 800;
+  height: auto;
+  left: 248px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 118px;
+}
+.bio .nalssam-b-nFxIs7 {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 600;
+  height: auto;
+  left: 148px;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .nalssam-i7hrr4 {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .nalssam-kxhp4v {
+  background-color: transparent;
+  color: rgba(67,135,220,1.0);
+  font-weight: 700;
+  height: auto;
+  left: 88px;
+  line-height: 57px;
+  position: absolute;
+  text-align: left;
+  top: 86px;
+  width: auto;
+}
+.bio .navbar-UOcbxe {
+  background-color: var(--cod-gray);
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.bio .stacked-group-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 3966px;
+  width: 1440px;
+}
+.bio .stacked-group-W8YgeY {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 135px;
+  justify-content: flex-start;
+  left: 92px;
+  position: relative;
+  top: 23px;
+  width: auto;
+}
+.bio .sw-logo-xd0wTK {
+  background-color: transparent;
+  background-image: url(../img/hw-swlogo-E686EA96-EA4C-4FED-9A47-FBE30F28EC2D@2x.png);
+  background-size: 100% 100%;
+  height: 130px;
+  margin: 0;
+  position: relative;
+  width: 130px;
+}
+.bio .textlabel-D44yGU {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .textlabel-FuxmSR {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 52px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 852px;
+  width: 896px;
+}
+.bio .textlabel-GE0XEQ {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 50px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  width: auto;
+}
+.bio .textlabel-ZTOnhR {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 53px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 794px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .textlabel-kTiyrb {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 49px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 519px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .textlabel-m8aA7s {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 800;
+  height: auto;
+  left: 17px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+  width: 184px;
+}
+.bio .textlabel-nFxIs7 {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 800;
+  height: auto;
+  left: 3px;
+  line-height: 87px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 630px;
+}
+.bio .textlabel-sdxwGy {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 48px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .textlabel-zUixHA {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 800;
+  height: auto;
+  left: -1px;
+  line-height: 87px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .top-word-2jslx4 {
+  background-color: transparent;
+  height: 206px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 635px;
+}
+.bio .view-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.bio .vr-D44yGU {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 78px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.bio .vr-copy-D44yGU {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 195px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+.bio .vr-copy-i7hrr4 {
+  background-color: var(--tundora);
+  height: 16px;
+  left: 1022px;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+.bio .x-i7hrr4 {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 751px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .x-zUixHA {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 500;
+  height: auto;
+  left: 50px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 1162px;
+  width: auto;
+}
+.bio .x00001-xd0wTK {
+  background-color: transparent;
+  height: 135px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+.bio .x00002-xd0wTK {
+  background-color: transparent;
+  height: 135px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+.bio .x010-29-i7hrr4 {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .x010-8402-2173-D44yGU {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 206px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .x1-D44yGU {
+  background-color: transparent;
+  color: var(--sonic-silver);
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  line-height: 16.0px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .x2-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/bio-2-4D028B6C-A89A-47E7-B1F3-5A342BB5E967.png);
+  background-size: 100% 100%;
+  height: 736px;
+  left: 0px;
+  position: absolute;
+  top: 1550px;
+  width: 1440px;
+}
+.bio .x2021-g-slave-pro-j-zUixHA {
+  background-color: transparent;
+  color: var(--black);
+  font-weight: 700;
+  height: auto;
+  left: 51px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 1104px;
+  white-space: nowrap;
+  width: auto;
+}
+.bio .x2021-kxhp4v {
+  background-color: transparent;
+  color: var(--white);
+  font-weight: 700;
+  height: auto;
+  left: 88px;
+  line-height: 57px;
+  position: absolute;
+  text-align: left;
+  top: 143px;
+  width: auto;
+}
+.bio .x3-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/bio-3-33115A0D-25F4-42E4-9F17-DA4B33C6BD50.png);
+  background-size: 100% 100%;
+  height: 595px;
+  left: 0px;
+  position: absolute;
+  top: 728px;
+  width: 1440px;
+}
+.facetimestyle {
+  font-family: "SFCompact-Regular", Helvetica, Arial, serif;
+  font-size: 195px;
+  letter-spacing: 0.00px;
+}
+.google-ads--style {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 58px;
+  letter-spacing: -3.00px;
+}
+.hw-little-fonts {
+  font-family: "AppleSDGothicNeo-Regular", Helvetica, Arial, serif;
+  font-size: 12px;
+  letter-spacing: -0.12px;
+}
+.more {
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 20px;
+  letter-spacing: -1.00px;
+}
+.moreim {
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 20px;
+  letter-spacing: -1.00px;
+}
+.nalssamcr48 {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.nalssamlogo {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 14px;
+  letter-spacing: 0.00px;
+}
+.nalssamlogoblack {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.00px;
+}
+.newnew {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 22px;
+  letter-spacing: -1.51px;
+}
+.newstyle {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 24px;
+}
+.sd21green {
+  font-family: "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  font-size: 21px;
+  letter-spacing: 0.00px;
+}
+.sd25 {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 25px;
+  letter-spacing: 0.00px;
+}
+.sd36 {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: -2.22px;
+}
+.sd47blue {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd48bold {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd48colorfull {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sd48medium {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: -1.80px;
+}
+.sd48newcolor {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sdidontknow {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.sdmedium24 {
+  font-family: "AppleSDGothicNeo-Medium", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -0.98px;
+}
+.sdsemi24 {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -1.48px;
+}
+.sdthenewenwcolor {
+  font-family: "AppleSDGothicNeo-Bold", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.sdultralight {
+  font-family: "AppleSDGothicNeo-UltraLight", Helvetica, Arial, serif;
+  font-size: 16px;
+  letter-spacing: 0.00px;
+}
+.sizes {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 18px;
+  letter-spacing: -1.24px;
+}
+.thebig {
+  font-family: "AppleSDGothicNeo-ExtraBold", Helvetica, Arial, serif;
+  font-size: 72px;
+  letter-spacing: -5.40px;
+}
+.thebigwhite {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 48px;
+  letter-spacing: 0.00px;
+}
+.theintervuew {
+  font-family: "AppleSDGothicNeo-SemiBold", Helvetica, Arial, serif;
+  font-size: 36px;
+  letter-spacing: 0.00px;
+}
+.with-nalssam {
+  font-family: "AppleSDGothicNeo-Heavy", Helvetica, Arial, serif;
+  font-size: 60px;
+  letter-spacing: -2.25px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --bunker: rgba(17,17,18,1.0);
+  --caribbean-green: rgba(11,212,128,1.0);
+  --cod-gray: rgba(10,10,10,1.0);
+  --eerie-black: rgba(29,29,31,1.0);
+  --mine-shaft: rgba(51,51,51,0.949);
+  --sonic-silver: rgba(117,117,121,1.0);
+  --tundora: rgba(66,66,69,1.0);
+  --tundora-2: rgba(66,66,69,0.949);
+  --white: rgba(255,255,255,1.0);
+}
